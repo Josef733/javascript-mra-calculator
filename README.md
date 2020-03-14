@@ -1,2 +1,2 @@
-# javascript mra calculator
- top drives mra calculator written in javascript
+# JavaScript MRA Calculator
+ Top Drives mra calculator written in JavaScript.
